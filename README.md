@@ -16,6 +16,3 @@
 ## Infra, DB, Tools, etc
 ![Kubernetes, Docker, Grafana, Prometheus, PostgreSQL, MongoDB, Git, GitHub, VSCode, Intellij IDEA, Linux, AWS, Nginx](https://skillicons.dev/icons?i=kubernetes,docker,grafana,prometheus,postgresql,mongodb,git,github,vscode,idea,linux,aws,nginx,)
 
-***
-[KuronekoServer](https://github.com/KuronekoServer)で管理者として色々な活動をしています。もし興味があれば[開発者として参加](https://forms.gle/1Shp2NvCqKqmGhZdA)してみませんか。  
-###### SNS上での発信は、個人としての見解であり、所属する組織の公式見解ではありません。
